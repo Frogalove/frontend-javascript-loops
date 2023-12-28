@@ -15,7 +15,6 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 
 
 
-
 // ==========================================
 // Opdracht 2
 // Schrijf een script dat ieder EVEN getal in onderstaande array met 2 vermenigvuldigd, en ieder ONEVEN getal met 3
